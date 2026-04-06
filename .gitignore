@@ -1,0 +1,10 @@
+```
+# Compressed files
+*.zip
+
+# Environment files
+.env.local
+
+# Logs
+*.log
+```
